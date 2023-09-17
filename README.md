@@ -4,4 +4,4 @@
 
 ## Templates de mails 
 
-Se rendre [ici](./templates) pour consulter / modifier les templates de mail
+Se rendre [ici](./templates/mail/) pour consulter / modifier les templates de mail
