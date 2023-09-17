@@ -25,9 +25,9 @@ Saveurs disponibles : Nature, Au piment d'Espelette, À la moutarde à l'ancienn
   - Bidon de 3 litres : 21€
   - Bidon de 5 litres : 35€
 
-Nous vous remercions pour votre compréhension et votre soutien continu à notre AMAP. Nous sommes impatients de vous retrouver pour une nouvelle saison et espérons que ces ajustements de prix nous permettront de continuer à vous offrir des produits de qualité.
+Nous vous remercions pour votre compréhension et votre soutien continu à notre AMAP.Nous sommes impatients de vous retrouver pour une nouvelle saison et espérons que ces ajustements de prix nous permettront de continuer à vous offrir des produits de qualité.
 
-Passez un excellent week-end et merci pour votre fidélité.
+Passez une excellente journée et merci pour votre fidélité.
 
 Cordialement,
-[Votre nom / Le nom de l'AMAP]
+L'AMAP Des Portes De Bretagne.
